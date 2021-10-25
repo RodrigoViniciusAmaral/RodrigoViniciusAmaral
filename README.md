@@ -1,4 +1,4 @@
-Hello there! Seja Bem-vindo ao meu GitHub 👋
+Olá! Seja Bem-vindo ao meu GitHub 👋
 
 <!-- Tabelas de Status -->
 
