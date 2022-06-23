@@ -4,6 +4,10 @@
   <p>Seja Bem-vindo ao meu GitHub!</p>
 </div>
 
+💻 Dev FullStack desde 2021
+🎓 Cursando Sistemas de Informação pela Universidade São Judas Tadeu
+📱 Compartilhando conteúdos de desenvolvimento e da vida de dev!
+
 <h3 align="center">Resumo Perfil Profissional</h3>
 <div align="center">
   <a href="https://github.com/RodrigoViniciusAmaral" alt="Stats - Rodrigo Vinícius Amaral">
