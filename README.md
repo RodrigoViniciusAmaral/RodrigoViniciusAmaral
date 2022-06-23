@@ -4,6 +4,7 @@
   <p>Seja Bem-vindo ao meu GitHub!</p>
 </div>
 
+<h3 align="center">Resumo Perfil Profissional</h3>
 <div align="center">
   <a href="https://github.com/RodrigoViniciusAmaral" alt="Stats - Rodrigo Vinícius Amaral">
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoViniciusAmaral&langs_count=10&theme=tokyonight&layout=compact"/>
@@ -12,7 +13,7 @@
   
 <!-- Programas -->
 
-<h3 align="center">Desenvolvedor / Linguagens</h3>
+<h3 align="center">Linguagens / Frameworks (Desenvolvedor)</h3>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
