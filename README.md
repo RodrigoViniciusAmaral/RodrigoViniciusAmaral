@@ -1,10 +1,14 @@
-<div align="center">
+<div>
   <!-- Title -->
+  ## Rodrigo Vinícius Amaral! Seja bem vindo(a) ao meu Github :man_technologist:
   <h3>Rodrigo Vinícius Amaral :man_technologist:</h3>
   <p>Seja Bem-vindo ao meu GitHub!</p>
 </div>
 
-  <p>💻 Dev FullStack desde 2021</p>
+</div>
+<h4 align="center">____________________________________________________________________</h4>
+
+º 💻 Dev FullStack desde 2021</p>
   <p>🎓 Cursando Sistemas de Informação pela Universidade São Judas Tadeu</p>
   <p>📱 Compartilhando conteúdos de desenvolvimento e da vida de dev!</p>
 
