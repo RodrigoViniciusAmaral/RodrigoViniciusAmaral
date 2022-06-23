@@ -20,9 +20,9 @@
 </div>-->
 
 <div align="center">
-  <a href="https://github.com/rodrigo-vinicius-amaral" alt="Stats - Rodrigo Vinícius Amaral">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-vinicius-amaral&langs_count=10&theme=tokyonight&layout=compact"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-vinicius-amaral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/RodrigoViniciusAmaral" alt="Stats - Rodrigo Vinícius Amaral">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoViniciusAmaral&langs_count=10&theme=tokyonight&layout=compact"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RodrigoViniciusAmaral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
 <!-- Programas -->
