@@ -1,6 +1,5 @@
 <div>
   <!-- Title -->
-  ## Rodrigo Vinícius Amaral! Seja bem vindo(a) ao meu Github :man_technologist:
   <h3>Rodrigo Vinícius Amaral :man_technologist:</h3>
   <p>Seja Bem-vindo ao meu GitHub!</p>
 </div>
