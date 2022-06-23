@@ -1,28 +1,40 @@
 <div>
-  <!-- Title -->
-  <h3>Rodrigo Vinícius Amaral :man_technologist:</h3>
-  <p>Seja Bem-vindo ao meu GitHub!</p>
+<!-- Title -->
+  <h2>Rodrigo Vinícius Amaral</h3>
 </div>
 
+<!-- Redes Sociais -->
+
+<div>
+  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
+  <a href="mailto: "><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+   <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-F58529?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
-<h4 align="center">____________________________________________________________________</h4>
 
-º 💻 Dev FullStack desde 2021</p>
-  <p>🎓 Cursando Sistemas de Informação pela Universidade São Judas Tadeu</p>
-  <p>📱 Compartilhando conteúdos de desenvolvimento e da vida de dev!</p>
+<!-- Breve Resumo -->
+<div>
+  <h5>Seja Bem-vindo ao meu GitHub!</h5>
+  <ul>
+    <li>💻 Dev Full-Stack desde 2021</li>
+    <li>🎓 Cursando Sistemas de Informação pela universidade São Judas Tadeu</li>
+    <li>📱 Compartilhando conteúdos de desenvolvimento!</a></li>
+  </ul>
+</div>
 
-<h3 align="center">Resumo Perfil Profissional</h3>
-<div align="center">
+##
+
+<h4>Resumo Perfil Profissional</h4>
+<div>
   <a href="https://github.com/RodrigoViniciusAmaral" alt="Stats - Rodrigo Vinícius Amaral">
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoViniciusAmaral&langs_count=10&theme=tokyonight&layout=compact"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RodrigoViniciusAmaral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
-<!-- Programas -->
-
-<h3 align="center">Desenvolvedor (Linguagens / Frameworks)</h3>
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
+ ##
+  
+<!-- Linguagens -->
+<h4>Linguagens / Frameworks</h4>
+<img align="center" alt="Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
@@ -31,22 +43,11 @@
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
- 
-<h3 align="center">UI Designer</h3>
-<div align="center" style="display: inline_block"><br>
+
+  
+ ##
+  
+<!-- Linguagens -->
+<h4>UI Designer</h4>
   <img align="center" alt="Illustrator" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-</div>
-
-<h3 align="center">Redes e Contatos</h3>
-<div align="center">
-  <!-- images -->
-  <p>
-    <a href="https://www.linkedin.com/in/rodrigo-vinicius-amaral/">
-      <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Rodrigo Vinícius Amaral - LinkedIn Profile" height="30" width="30">
-    </a>
-    <a href="mailto:rodrigoamaral.empresarial@gmail.com">
-      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Rodrigo Vinícius Amaral - Gmail" height="30" width="30">
-    </a>
-  </p>
-</div>
