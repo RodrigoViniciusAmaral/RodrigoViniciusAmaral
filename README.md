@@ -2,16 +2,12 @@
   <!-- Title -->
   <h3>Rodrigo Vinícius Amaral :man_technologist:</h3>
   <p>Seja Bem-vindo ao meu GitHub!</p>
+</div>
 
-  <!-- images -->
-  <p>
-    <a href="https://www.linkedin.com/in/rodrigo-vinicius-amaral/">
-      <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Rodrigo Vinícius Amaral - LinkedIn Profile" height="30" width="30">
-    </a>
-    <a href="mailto:rodrigoamaral.empresarial@gmail.com">
-      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Rodrigo Vinícius Amaral - Gmail" height="30" width="30">
-    </a>
-  </p>
+<div align="center">
+  <a href="https://github.com/RodrigoViniciusAmaral" alt="Stats - Rodrigo Vinícius Amaral">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoViniciusAmaral&langs_count=10&theme=tokyonight&layout=compact"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RodrigoViniciusAmaral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
 <!-- Programas -->
@@ -36,7 +32,13 @@
 
 <h3 align="center">Redes e Contatos</h3>
 <div align="center">
-  <a href="https://github.com/RodrigoViniciusAmaral" alt="Stats - Rodrigo Vinícius Amaral">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoViniciusAmaral&langs_count=10&theme=tokyonight&layout=compact"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RodrigoViniciusAmaral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <!-- images -->
+  <p>
+    <a href="https://www.linkedin.com/in/rodrigo-vinicius-amaral/">
+      <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Rodrigo Vinícius Amaral - LinkedIn Profile" height="30" width="30">
+    </a>
+    <a href="mailto:rodrigoamaral.empresarial@gmail.com">
+      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Rodrigo Vinícius Amaral - Gmail" height="30" width="30">
+    </a>
+  </p>
 </div>
