@@ -2,11 +2,10 @@
   <!-- Title -->
   <h3>Rodrigo Vinícius Amaral :man_technologist:</h3>
   <p>Seja Bem-vindo ao meu GitHub!</p>
+  <p>💻 Dev FullStack desde 2021</p>
+  <p>🎓 Cursando Sistemas de Informação pela Universidade São Judas Tadeu</p>
+  <p>📱 Compartilhando conteúdos de desenvolvimento e da vida de dev!</p>
 </div>
-
-💻 Dev FullStack desde 2021
-🎓 Cursando Sistemas de Informação pela Universidade São Judas Tadeu
-📱 Compartilhando conteúdos de desenvolvimento e da vida de dev!
 
 <h3 align="center">Resumo Perfil Profissional</h3>
 <div align="center">
