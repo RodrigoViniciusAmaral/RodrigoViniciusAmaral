@@ -34,11 +34,8 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
  
-<h3 align="center">Designer</h3>
+<h3 align="center">UI Designer</h3>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Illustrator" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="PremierePro" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">
-
 </div>
-<h4 align="center">____________________________________________________________________</h4>
