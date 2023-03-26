@@ -34,7 +34,7 @@
  ##
   
 <!-- Linguagens -->
-<h4>Linguagens / Frameworks</h4>
+<h4>Linguagens & Frameworks</h4>
   <div class="d-flex gap-3>
     <img align="center" alt="Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
     <img align="center" alt="Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
