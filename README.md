@@ -6,7 +6,7 @@
 <!-- Redes Sociais -->
 
 <div>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
+  <a href="https://www.linkedin.com/in/](https://www.linkedin.com/in/rodrigo-vinicius-amaral/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
   <a href="mailto: "><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
    <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-F58529?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
