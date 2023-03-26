@@ -16,7 +16,7 @@
   <h5>Seja Bem-vindo ao meu GitHub!</h5>
   <ul>
     <li>💻 Dev Full Stack desde 2021</li>
-    <li>🎓 Bacharel de Sistemas de Informação pela universidade São Judas Tadeu (USJT) </li>
+    <li>🎓 Bacharel em Sistemas de Informação pela universidade São Judas Tadeu (USJT) </li>
     <li>🎓 Técnico em Desenvolvimento de Sistemas e Manutenção e Suporte em Informática pela Escola Técnica Estual (ETEC) </li>
     <li>📱 Compartilhando conteúdos de desenvolvimento!</a></li>
   </ul>
