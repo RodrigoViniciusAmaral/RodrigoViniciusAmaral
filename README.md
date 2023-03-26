@@ -27,8 +27,8 @@
 <h4>Resumo Perfil Profissional</h4>
 <div>
   <a href="https://github.com/RodrigoViniciusAmaral">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RodrigoViniciusAmaral&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoViniciusAmaral&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RodrigoViniciusAmaral&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
   
  ##
